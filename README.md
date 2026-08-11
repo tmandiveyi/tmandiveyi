@@ -7,7 +7,7 @@ I’m looking to collaborate on:
 - 💻 Full-stack web applications (frontend & backend)
 - ⚙️ Scalable systems, APIs, and backend services
 - 🚀 Open-source projects and real-world tech solutions
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tatendakasirori&label=Profile%20views&color=0e75b6&style=flat" alt="tatendakasirori" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tmandiveyi&label=Profile%20views&color=0e75b6&style=flat" alt="tmandiveyi" /> </p>
 
 ## 🌐Socials
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white)](https://tmandiveyi.github.io/portfolio/)
