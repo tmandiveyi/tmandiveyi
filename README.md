@@ -37,9 +37,7 @@ I’m looking to collaborate on:
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmandiveyi&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![GitHub Streaks](https://nirzak-streak-stats.vercel.app/?user=tmandiveyi&theme=aura&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmandiveyi&theme=aura&hide_border=false&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=tmandiveyi\&theme=github-dark)
 
 
 ## ✍️ Personal Motto
